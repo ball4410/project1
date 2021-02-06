@@ -1,0 +1,810 @@
+Brewery Name,Type of Brewery,City,State,Country,Brewery ID,Beer Name,Style of Beer,abv
+18th Street Brewery,micro,Gary,Indiana,United States,177,Devil's Cup,American Pale Ale (APA),0.066
+18th Street Brewery,micro,Gary,Indiana,United States,177,Rise of the Phoenix,American IPA,0.071
+18th Street Brewery,micro,Gary,Indiana,United States,177,Sinister,American Double / Imperial IPA,0.09
+18th Street Brewery,micro,Gary,Indiana,United States,177,Sex and Candy,American IPA,0.075
+18th Street Brewery,micro,Gary,Indiana,United States,177,Black Exodus,Oatmeal Stout,0.077
+18th Street Brewery,micro,Gary,Indiana,United States,177,Lake Street Express,American Pale Ale (APA),0.045
+18th Street Brewery,micro,Gary,Indiana,United States,177,Foreman,American Porter,0.065
+18th Street Brewery,micro,Gary,Indiana,United States,177,Jade,American Pale Ale (APA),0.055
+18th Street Brewery,micro,Gary,Indiana,United States,177,Cone Crusher,American Double / Imperial IPA,0.086
+18th Street Brewery,micro,Gary,Indiana,United States,177,Sophomoric Saison,Saison / Farmhouse Ale,0.07200000000000001
+18th Street Brewery,micro,Gary,Indiana,United States,177,Regional Ring Of Fire,Saison / Farmhouse Ale,0.073
+18th Street Brewery,micro,Gary,Indiana,United States,177,Garce Selé,Saison / Farmhouse Ale,0.069
+18th Street Brewery,micro,Gary,Indiana,United States,177,Troll Destroyer,Belgian IPA,0.085
+18th Street Brewery,micro,Gary,Indiana,United States,177,Bitter Bitch,American Pale Ale (APA),0.061
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Devil's Cup,American Pale Ale (APA),0.066
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Rise of the Phoenix,American IPA,0.071
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Sinister,American Double / Imperial IPA,0.09
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Sex and Candy,American IPA,0.075
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Black Exodus,Oatmeal Stout,0.077
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Lake Street Express,American Pale Ale (APA),0.045
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Foreman,American Porter,0.065
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Jade,American Pale Ale (APA),0.055
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Cone Crusher,American Double / Imperial IPA,0.086
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Sophomoric Saison,Saison / Farmhouse Ale,0.07200000000000001
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Regional Ring Of Fire,Saison / Farmhouse Ale,0.073
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Garce Selé,Saison / Farmhouse Ale,0.069
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Troll Destroyer,Belgian IPA,0.085
+18th Street Brewery,micro,Hammond,Indiana,United States,177,Bitter Bitch,American Pale Ale (APA),0.061
+21st Amendment Brewery,regional,San Leandro,California,United States,368,He Said Baltic-Style Porter,Baltic Porter,0.08199999999999999
+21st Amendment Brewery,regional,San Leandro,California,United States,368,He Said Belgian-Style Tripel,Tripel,0.08199999999999999
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Lower De Boom,American Barleywine,0.099
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Fireside Chat,Winter Warmer,0.079
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Marooned On Hog Island,American Stout,0.079
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Bitter American,American Pale Ale (APA),0.044
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,0.049
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,0.049
+21st Amendment Brewery,regional,San Leandro,California,United States,368,21st Amendment Watermelon Wheat Beer (2006),Fruit / Vegetable Beer,0.049
+21st Amendment Brewery,regional,San Leandro,California,United States,368,21st Amendment IPA (2006),American IPA,0.07
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Brew Free! or Die IPA (2008),American IPA,0.07
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Brew Free! or Die IPA (2009),American IPA,0.07
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Special Edition: Allies Win The War!,English Strong Ale,0.085
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Hop Crisis,American Double / Imperial IPA,0.097
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Bitter American (2011),American Pale Ale (APA),0.044
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Fireside Chat (2010),Winter Warmer,0.079
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Back in Black,American Black Ale,0.068
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Monk's Blood,Belgian Dark Ale,0.083
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Brew Free! or Die IPA,American IPA,0.07
+21st Amendment Brewery,regional,San Leandro,California,United States,368,Hell or High Watermelon Wheat,Fruit / Vegetable Beer,0.049
+3 Daughters Brewing,micro,Saint Petersburg,Florida,United States,67,Bimini Twist,American IPA,0.07
+3 Daughters Brewing,micro,Saint Petersburg,Florida,United States,67,Beach Blonde,American Blonde Ale,0.05
+3 Daughters Brewing,micro,Saint Petersburg,Florida,United States,67,Rod Bender Red,American Amber / Red Ale,0.059
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,Citra Ass Down,American Double / Imperial IPA,0.08
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,London Balling,English Barleywine,0.125
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,35 K,Milk / Sweet Stout,0.077
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,A Beer,American Pale Ale (APA),0.042
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,Rules are Rules,German Pilsener,0.05
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,Flesh Gourd'n,Pumpkin Ale,0.066
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,Sho'nuff,Belgian Pale Ale,0.04
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,Bloody Show,American Pilsner,0.055
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,Rico Sauvin,American Double / Imperial IPA,0.076
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,Coq de la Marche,Saison / Farmhouse Ale,0.051
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,Kamen Knuddeln,American Wild Ale,0.065
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,Pile of Face,American IPA,0.06
+Against the Grain Brewery,micro,Louisville,Kentucky,United States,1,The Brown Note,English Brown Ale,0.05
+Ale Asylum,regional,Madison,Wisconsin,United States,73,Hopalicious,American Pale Ale (APA),0.057
+Armadillo Ale Works,micro,Denton,Texas,United States,426,Quakertown Stout,American Double / Imperial Stout,0.092
+Armadillo Ale Works,micro,Denton,Texas,United States,426,Greenbelt Farmhouse Ale,Saison / Farmhouse Ale,0.051
+Aslan Brewing Company,micro,Bellingham,Washington,United States,353,Aslan Kölsch,Kölsch,0.048
+Aslan Brewing Company,micro,Bellingham,Washington,United States,353,Aslan IPA,American IPA,0.077
+Aslan Brewing Company,micro,Bellingham,Washington,United States,353,Aslan Amber,American Amber / Red Ale,0.077
+Aspen Brewing Company,micro,Aspen,Colorado,United States,523,This Season's Blonde,American Blonde Ale,0.056
+Aspen Brewing Company,micro,Aspen,Colorado,United States,523,Independence Pass Ale,American IPA,0.07
+Astoria Brewing Company,micro,Astoria,Oregon,United States,374,Trolley Stop Stout,American Stout,0.057
+Astoria Brewing Company,micro,Astoria,Oregon,United States,374,Bitter Bitch Imperial IPA,American Double / Imperial IPA,0.08199999999999999
+Astoria Brewing Company,micro,Astoria,Oregon,United States,374,Poop Deck Porter,American Porter,0.062
+Astoria Brewing Company,micro,Astoria,Oregon,United States,374,Old Red Beard Amber Ale,American Amber / Red Ale,0.06
+Austin Beerworks,regional,Austin,Texas,United States,413,Heavy Machinery IPA Series #1: Heavy Fist,American Black Ale,0.07
+Austin Beerworks,regional,Austin,Texas,United States,413,Fire Eagle IPA,American IPA,0.062
+Austin Beerworks,regional,Austin,Texas,United States,413,Peacemaker,American Pale Ale (APA),0.051
+Austin Beerworks,regional,Austin,Texas,United States,413,Pearl-Snap,German Pilsener,0.053
+Austin Beerworks,regional,Austin,Texas,United States,413,Black Thunder,Schwarzbier,0.052000000000000005
+Aviator Brewing Company,regional,Fuquay Varina,North Carolina,United States,360,Pumpkin Beast,Pumpkin Ale,0.062
+Aviator Brewing Company,regional,Fuquay Varina,North Carolina,United States,360,OktoberBeast,Märzen / Oktoberfest,0.07200000000000001
+Aviator Brewing Company,regional,Fuquay Varina,North Carolina,United States,360,Mad Beach,American Pale Wheat Ale,0.048
+Aviator Brewing Company,regional,Fuquay Varina,North Carolina,United States,360,Hog Wild India Pale Ale,American IPA,0.067
+Aviator Brewing Company,regional,Fuquay Varina,North Carolina,United States,360,Devils Tramping Ground Tripel,Tripel,0.092
+Aviator Brewing Company,regional,Fuquay Varina,North Carolina,United States,360,Hot Rod Red,American Amber / Red Ale,0.061
+Bale Breaker Brewing Company,regional,Yakima,Washington,United States,483,Topcutter India Pale Ale,American IPA,0.068
+Bale Breaker Brewing Company,regional,Yakima,Washington,United States,483,Field 41 Pale Ale,American Pale Ale (APA),0.044
+Ballast Point Brewing Company,large,Daleville,Virginia,United States,34,Grapefruit Sculpin,American IPA,0.07
+Ballast Point Brewing Company,large,Daleville,Virginia,United States,34,Even Keel,American IPA,0.038
+Ballast Point Brewing Company,large,Daleville,Virginia,United States,34,Ballast Point Pale Ale,Kölsch,0.052000000000000005
+Ballast Point Brewing Company,large,Daleville,Virginia,United States,34,Big Eye India Pale Ale,American IPA,0.07
+Ballast Point Brewing Company,large,Daleville,Virginia,United States,34,Longfin Lager,Munich Helles Lager,0.046
+Ballast Point Brewing Company,large,Daleville,Virginia,United States,34,Sculpin IPA,American IPA,0.07
+Ballast Point Brewing Company,large,Long Beach,California,United States,34,Grapefruit Sculpin,American IPA,0.07
+Ballast Point Brewing Company,large,Long Beach,California,United States,34,Even Keel,American IPA,0.038
+Ballast Point Brewing Company,large,Long Beach,California,United States,34,Ballast Point Pale Ale,Kölsch,0.052000000000000005
+Ballast Point Brewing Company,large,Long Beach,California,United States,34,Big Eye India Pale Ale,American IPA,0.07
+Ballast Point Brewing Company,large,Long Beach,California,United States,34,Longfin Lager,Munich Helles Lager,0.046
+Ballast Point Brewing Company,large,Long Beach,California,United States,34,Sculpin IPA,American IPA,0.07
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Grapefruit Sculpin,American IPA,0.07
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Even Keel,American IPA,0.038
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Ballast Point Pale Ale,Kölsch,0.052000000000000005
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Big Eye India Pale Ale,American IPA,0.07
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Longfin Lager,Munich Helles Lager,0.046
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Sculpin IPA,American IPA,0.07
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Grapefruit Sculpin,American IPA,0.07
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Even Keel,American IPA,0.038
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Ballast Point Pale Ale,Kölsch,0.052000000000000005
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Big Eye India Pale Ale,American IPA,0.07
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Longfin Lager,Munich Helles Lager,0.046
+Ballast Point Brewing Company,large,San Diego,California,United States,34,Sculpin IPA,American IPA,0.07
+Bare Hands Brewery,micro,Granger,Indiana,United States,20,Thai.p.a,American IPA,0.07
+Bauhaus Brew Labs,micro,Minneapolis,Minnesota,United States,258,Wagon Party,California Common / Steam Beer,0.054000000000000006
+Bauhaus Brew Labs,micro,Minneapolis,Minnesota,United States,258,Sky-Five,American IPA,0.067
+Bauhaus Brew Labs,micro,Minneapolis,Minnesota,United States,258,Stargrazer,Schwarzbier,0.05
+Bauhaus Brew Labs,micro,Minneapolis,Minnesota,United States,258,Wonderstuff,German Pilsener,0.054000000000000006
+Bent Brewstillery,micro,Roseville,Minnesota,United States,53,Moar,English India Pale Ale (IPA),0.044
+Bent Brewstillery,micro,Roseville,Minnesota,United States,53,Uber Lupin Schwarz IPA,American Double / Imperial IPA,0.083
+Bent Brewstillery,micro,Roseville,Minnesota,United States,53,Nordic Blonde,American Blonde Ale,0.057
+Big Elm Brewing,micro,Sheffield,Massachusetts,United States,477,Big Elm IPA,American IPA,0.07
+Big Elm Brewing,micro,Sheffield,Massachusetts,United States,477,Gerry Dog Stout,American Stout,0.065
+Big Elm Brewing,micro,Sheffield,Massachusetts,United States,477,413 Farmhouse Ale,Saison / Farmhouse Ale,0.06
+Big Lake Brewing,micro,Holland,Michigan,United States,8,Dark Star,American Stout,0.08
+Big Lake Brewing,micro,Holland,Michigan,United States,8,Ryecoe,American IPA,0.062
+Big Wood Brewery,micro,White Bear Lake,Minnesota,United States,444,Jack Pine Savage,American Pale Ale (APA),0.053
+Big Wood Brewery,micro,White Bear Lake,Minnesota,United States,444,Forest Fire Imperial Smoked Rye,Rye Beer,0.099
+Big Wood Brewery,micro,White Bear Lake,Minnesota,United States,444,Bad Axe Imperial IPA,American Double / Imperial IPA,0.098
+Big Wood Brewery,micro,White Bear Lake,Minnesota,United States,444,Morning Wood,Oatmeal Stout,0.055
+Big Wood Brewery,micro,White Bear Lake,Minnesota,United States,444,Bark Bite IPA,American IPA,0.066
+Blackrocks Brewery,micro,Marquette,Michigan,United States,12,Nordskye ,American IPA,0.048
+Blackrocks Brewery,micro,Marquette,Michigan,United States,12,North Third Stout,Foreign / Export Stout,0.06
+Blackrocks Brewery,micro,Marquette,Michigan,United States,12,Honey Lav,American Pale Wheat Ale,0.052000000000000005
+Blackrocks Brewery,micro,Marquette,Michigan,United States,12,Coconut Brown Ale,American Brown Ale,0.068
+Blackrocks Brewery,micro,Marquette,Michigan,United States,12,51K IPA,American IPA,0.07
+Blackrocks Brewery,micro,Marquette,Michigan,United States,12,Grand Rabbits,Cream Ale,0.055
+Blackrocks Brewery,micro,Marquette,Michigan,United States,95,Flying Sailor,Rye Beer,0.073
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,1800 Big Log Wheat (2012),American Pale Wheat Ale,0.05
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,Double Play Pilsner,American Pilsner,
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,Brewerhood Brown Ale,American Brown Ale,0.055
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,Last Call Imperial Amber Ale,American Amber / Red Ale,0.08
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,Pernicious Double IPA,American Double / Imperial IPA,0.096
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,6-4-3 Double Play Pilsner,German Pilsener,0.052000000000000005
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,N Street Drive-In 50th Anniversary IPA,American Double / Imperial IPA,
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,467 Ethan's Stout,American Stout,0.05
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,1335 Wicked Snout,Saison / Farmhouse Ale,0.064
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,543 Skull Creek Fresh Hopped Pale Ale,American Pale Ale (APA),0.045
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,1327 Pod's ESB,Extra Special / Strong Bitter (ESB),0.056
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,1327 Pod's ESB,Extra Special / Strong Bitter (ESB),0.056
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,1327 Pod's ESB,Extra Special / Strong Bitter (ESB),0.056
+Blue Blood Brewing Company,brewpub,Lincoln,Nebraska,United States,380,834 Happy As Ale,American Pale Ale (APA),0.046
+Blue Mountain Brewery,micro,Afton,Virginia,United States,382,Full Nelson Pale Ale,American Pale Ale (APA),0.059
+Blue Mountain Brewery,micro,Afton,Virginia,United States,382,Steel Wheels ESB,Extra Special / Strong Bitter (ESB),0.065
+Blue Mountain Brewery,micro,Afton,Virginia,United States,382,Blue Mountain Classic Lager,Euro Pale Lager,0.053
+Blue Mountain Brewery,micro,Afton,Virginia,United States,382,Full Nelson Pale Ale (2010),American Pale Ale (APA),0.059
+Blue Mountain Brewery,micro,Afton,Virginia,United States,414,Kölsch 151,Kölsch,0.049
+Blue Owl Brewing,micro,Austin,Texas,United States,77,Professor Black,American Stout,
+Blue Owl Brewing,micro,Austin,Texas,United States,77,Little Boss,American Pale Wheat Ale,
+Blue Owl Brewing,micro,Austin,Texas,United States,77,Van Dayum!,American Amber / Red Ale,
+Blue Owl Brewing,micro,Austin,Texas,United States,77,Spirit Animal,American Pale Ale (APA),
+Bold City Brewery,micro,Jacksonville,Florida,United States,378,Mad Manatee IPA,American IPA,0.065
+Bold City Brewery,micro,Jacksonville,Florida,United States,378,Killer Whale Cream Ale,Cream Ale,0.055
+Bold City Brewery,micro,Jacksonville,Florida,United States,378,Duke's Cold Nose Brown Ale,American Brown Ale,0.06
+Bold City Brewery,micro,Jacksonville,Florida,United States,378,Mad Manatee IPA,American IPA,0.065
+Bold City Brewery,micro,Jacksonville,Florida,United States,378,Killer Whale Cream Ale,Cream Ale,0.055
+Bold City Brewery,micro,Jacksonville,Florida,United States,378,Duke's Cold Nose Brown Ale,American Brown Ale,0.06
+Bolero Snort Brewery,contract,Ridgefield Park,New Jersey,United States,281,Longhop IPA,American IPA,0.042
+Bolero Snort Brewery,contract,Ridgefield Park,New Jersey,United States,281,Lucky Buck,Irish Dry Stout,0.04
+Breakside Brewery,brewpub,Portland,Oregon,United States,195,Post Time Kölsch,Kölsch,0.05
+Breckenridge Brewery,large,Littleton,Colorado,United States,391,Agave Wheat,American Pale Wheat Ale,0.042
+Breckenridge Brewery,large,Littleton,Colorado,United States,391,SummerBright Ale,American Pale Wheat Ale,0.045
+Breckenridge Brewery,large,Littleton,Colorado,United States,391,Lucky U IPA,American IPA,0.062
+Breckenridge Brewery,large,Littleton,Colorado,United States,391,Avalanche Ale,American Amber / Red Ale,0.054000000000000006
+Brew Bus Brewing,brewpub,Tampa,Florida,United States,308,"You're My Boy, Blue",Fruit / Vegetable Beer,0.05
+Brew Bus Brewing,brewpub,Tampa,Florida,United States,308,Last Stop IPA,American IPA,0.07200000000000001
+Brew Bus Brewing,brewpub,Tampa,Florida,United States,308,Rollin Dirty Red Ale,Irish Red Ale,0.05
+Brew Bus Brewing,brewpub,Tampa,Florida,United States,308,Are Wheat There Yet?,American Pale Wheat Ale,0.055
+Brew Link Brewing,proprietor,Plainfield,Indiana,United States,19,Insert Hop Reference,American Pale Ale (APA),0.058
+Brewery Terra Firma,micro,Traverse City,Michigan,United States,85,Manitou Amber,American Amber / Red Ale,0.053
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Belfort,Saison / Farmhouse Ale,0.067
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Star Runner,Belgian Pale Ale,0.06
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Tart Side of the Barrel,American Double / Imperial Stout,0.098
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Linnaeus Mango IPA,American IPA,0.06
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Beasts A'Burnin',Rauchbier,0.07
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Verdun,Bière de Garde,0.077
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Barrel Aged Triomphe,Belgian IPA,0.065
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Cherry Doppelbock,Doppelbock,0.065
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Tropical Saison,Saison / Farmhouse Ale,0.065
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Beach Patrol,Witbier,0.065
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Nuit Serpent,Belgian IPA,0.05
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Paris,Saison / Farmhouse Ale,0.09
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,The Grand Army,Belgian IPA,0.055
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Acidulated Trip,Saison / Farmhouse Ale,0.059
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Root Stock,Rye Beer,0.066
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Mind Games,Dunkelweizen,0.041
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Sous Chef,Belgian Strong Pale Ale,0.08199999999999999
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Dubbelicious,Dubbel,0.065
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Psychopomp,Belgian Dark Ale,0.062
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Fat Paczki,Belgian Dark Ale,
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Earth-Like Planets,Belgian Pale Ale,
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Ski Patrol,Witbier,0.061
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Viking Ice Hole,Oatmeal Stout,0.063
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Rye Porter,American Porter,0.056
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Wizard Burial Ground,Quadrupel (Quad),0.099
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Smoky Wheat,Rauchbier,0.051
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,BRIPA,Belgian IPA,0.062
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Mela,Belgian Dark Ale,0.062
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,W.I.P.A Snappa,Belgian IPA,0.053
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Pepper in the Rye,Rye Beer,0.063
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Moe Lasses',American Stout,0.064
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Pumpkin Tart,Fruit / Vegetable Beer,0.07
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Undertaker,Belgian Dark Ale,0.067
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Undertaker (2014),Belgian Dark Ale,0.067
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Coq D'Or,Belgian Pale Ale,0.05
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,North French,Bière de Garde,0.06
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Agent a Deux,Belgian Dark Ale,0.065
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Belgian Wit,Witbier,0.045
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Pothole Stout,American Stout,0.063
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Tree Bucket,Belgian IPA,0.093
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Le Flaneur Ale,American Wild Ale,0.073
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Maize & Blueberry,Fruit / Vegetable Beer,0.056
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Trebuchet Double IPA,American Double / Imperial IPA,0.093
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Contemplation,Bière de Garde,0.065
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Black Rabbit,American Black Ale,0.05
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Zaison,Saison / Farmhouse Ale,0.09
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Vivant Tripel,Tripel,0.08199999999999999
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Tart Side of the Moon,Belgian Dark Ale,0.098
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Big Red Coq,American Amber / Red Ale,0.06
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Hubris Quadrupel Anniversary Ale,Quadrupel (Quad),0.099
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Plow Horse Belgian Style Imperial Stout,American Double / Imperial Stout,0.095
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Escoffier Bretta Ale,American Wild Ale,0.092
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Contemplation (2012),Bière de Garde,0.065
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Vivant Belgian Style Imperial Stout (2012),Russian Imperial Stout,0.099
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Big Red Coq (2012),American Amber / Red Ale,0.062
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Zaison (2012),Saison / Farmhouse Ale,0.09
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Vivant Tripel (2012),Tripel,0.092
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Trebuchet Double IPA (2012),Belgian IPA,0.097
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Kludde,Belgian Strong Dark Ale,0.085
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Farm Hand,Saison / Farmhouse Ale,0.055
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Solitude,Belgian Pale Ale,0.06
+Brewery Vivant,brewpub,Grand Rapids,Michigan,United States,10,Triomphe,Belgian IPA,0.065
+Brooklyn Brewery,regional,Brooklyn,New York,United States,437,East India Pale Ale,English India Pale Ale (IPA),0.068
+Brooklyn Brewery,regional,Brooklyn,New York,United States,437,Brooklyn Summer Ale,English Pale Mild Ale,0.045
+Brooklyn Brewery,regional,Brooklyn,New York,United States,437,East India Pale Ale,English India Pale Ale (IPA),0.068
+Brooklyn Brewery,regional,Brooklyn,New York,United States,437,Brooklyn Summer Ale (2011),English Pale Mild Ale,0.045
+Brooklyn Brewery,regional,Brooklyn,New York,United States,437,Brooklyn Lager (16 oz.),American Amber / Red Lager,0.052000000000000005
+Brooklyn Brewery,regional,Brooklyn,New York,United States,437,Brooklyn Lager (12 oz.),American Amber / Red Lager,0.052000000000000005
+BuckleDown Brewing,micro,Lyons,Illinois,United States,56,Painted Turtle,American Pale Ale (APA),0.045
+Cape Cod Beer,micro,Hyannis,Massachusetts,United States,267,Cape Cod Red,American Amber / Red Ale,0.055
+Cape Cod Beer,micro,Hyannis,Massachusetts,United States,267,Beach Blonde,American Blonde Ale,0.049
+Cedar Creek Brewery,brewpub,Seven Points,Texas,United States,29,Gone A-Rye,American Double / Imperial IPA,0.085
+Cedar Creek Brewery,brewpub,Seven Points,Texas,United States,29,Special Release,,
+Cedar Creek Brewery,brewpub,Seven Points,Texas,United States,29,Dankosaurus,American IPA,0.068
+Cedar Creek Brewery,brewpub,Seven Points,Texas,United States,29,Scruffy's Smoked Alt,Smoked Beer,0.051
+Cedar Creek Brewery,brewpub,Seven Points,Texas,United States,29,Elliott's Phoned Home Pale Ale,American Pale Ale (APA),0.051
+Cedar Creek Brewery,brewpub,Seven Points,Texas,United States,29,The Lawn Ranger,Cream Ale,0.05
+Champion Brewing Company,micro,Charlottesville,Virginia,United States,236,Stickin' In My Rye,Rye Beer,0.07
+Champion Brewing Company,micro,Charlottesville,Virginia,United States,236,Black Me Stout,American Stout,0.06
+Champion Brewing Company,micro,Charlottesville,Virginia,United States,236,Killer Kolsch,Kölsch,0.05
+Champion Brewing Company,micro,Charlottesville,Virginia,United States,236,Missile IPA,American IPA,0.07
+Cisco Brewers,micro,Nantucket,Massachusetts,United States,145,Shark Tracker Light lager,Light Lager,0.048
+Cisco Brewers,micro,Nantucket,Massachusetts,United States,145,Pumple Drumkin,Pumpkin Ale,0.06
+Cisco Brewers,micro,Nantucket,Massachusetts,United States,145,Grey Lady,Witbier,0.045
+Cisco Brewers,micro,Nantucket,Massachusetts,United States,145,Summer of Lager,Munich Helles Lager,0.062
+Cisco Brewers,micro,Nantucket,Massachusetts,United States,145,Indie Pale Ale,American IPA,0.065
+Cisco Brewers,micro,Nantucket,Massachusetts,United States,145,Sankaty Light Lager,Light Lager,0.038
+Cisco Brewers,micro,Nantucket,Massachusetts,United States,145,Whale's Tale Pale Ale,English Pale Ale,0.056
+Claremont Craft Ales,micro,Claremont,California,United States,320,Jacaranada Rye IPA,American IPA,0.067
+College Street Brewhouse and Pub,micro,Lake Havasu City,Arizona,United States,232,Big Blue Van,Fruit / Vegetable Beer,0.058
+COOP Ale Works,micro,Oklahoma City,Oklahoma,United States,182,Gran Sport,American Porter,0.052000000000000005
+COOP Ale Works,micro,Oklahoma City,Oklahoma,United States,182,Horny Toad Cerveza,American Blonde Ale,0.053
+COOP Ale Works,micro,Oklahoma City,Oklahoma,United States,182,Native Amber,American Amber / Red Ale,0.063
+COOP Ale Works,micro,Oklahoma City,Oklahoma,United States,182,F5 IPA,American IPA,0.068
+COOP Ale Works,micro,Oklahoma City,Oklahoma,United States,182,Native Amber (2013),American Amber / Red Ale,0.063
+COOP Ale Works,micro,Oklahoma City,Oklahoma,United States,182,Horny Toad Cerveza (2013),American Blonde Ale,0.053
+Covington Brewhouse,micro,Covington,Louisiana,United States,553,Heiner Brau Kölsch,Kölsch,0.05
+Daredevil Brewing Company,micro,Indianapolis,Indiana,United States,358,Lift Off IPA,American IPA,0.07200000000000001
+DC Brau Brewing Company,regional,Washington,District of Columbia,United States,227,Stone of Arbroath,Scotch Ale / Wee Heavy,0.08
+DC Brau Brewing Company,regional,Washington,District of Columbia,United States,227,The Tradition,American Blonde Ale,0.05
+DC Brau Brewing Company,regional,Washington,District of Columbia,United States,227,El Hefe Speaks,Hefeweizen,0.053
+DC Brau Brewing Company,regional,Washington,District of Columbia,United States,227,Penn Quarter Porter,American Porter,0.055
+DC Brau Brewing Company,regional,Washington,District of Columbia,United States,227,On the Wings of Armageddon,American Double / Imperial IPA,0.092
+DC Brau Brewing Company,regional,Washington,District of Columbia,United States,227,The Corruption,American IPA,0.065
+DC Brau Brewing Company,regional,Washington,District of Columbia,United States,227,The Citizen,Belgian Pale Ale,0.07
+DC Brau Brewing Company,regional,Washington,District of Columbia,United States,227,The Public,American Pale Ale (APA),0.06
+Denali Brewing Company,micro,Talkeetna,Alaska,United States,453,Chuli Stout,Irish Dry Stout,0.059
+Denali Brewing Company,micro,Talkeetna,Alaska,United States,453,Mother Ale,American Blonde Ale,0.056
+Denali Brewing Company,micro,Talkeetna,Alaska,United States,453,Twister Creek India Pale Ale,American IPA,0.065
+Denali Brewing Company,micro,Talkeetna,Alaska,United States,453,Single Engine Red,Irish Red Ale,0.058
+Deschutes Brewery,regional,Bend,Oregon,United States,454,Mirror Pond Pale Ale,American Pale Ale (APA),0.05
+Dock Street Brewery,brewpub,Philadelphia,Pennsylvania,United States,488,Dock Street Amber Beer (1992),American Amber / Red Ale,
+Dolores River Brewery,brewpub,Dolores,Colorado,United States,531,Dolores River Hefeweizen,Hefeweizen,
+Dolores River Brewery,brewpub,Dolores,Colorado,United States,531,Dolores River ESB,Extra Special / Strong Bitter (ESB),
+Dolores River Brewery,brewpub,Dolores,Colorado,United States,531,Snaggletooth Double Pale Ale,American Double / Imperial IPA,
+Dolores River Brewery,brewpub,Dolores,Colorado,United States,531,Dolores River Pale Ale,American Pale Ale (APA),
+Dolores River Brewery,brewpub,Dolores,Colorado,United States,531,Dolores River Dry Stout,Irish Dry Stout,
+Dolores River Brewery,brewpub,Dolores,Colorado,United States,531,Dolores River Mild,English Dark Mild Ale,
+Evil Czech Brewery,brewpub,Mishawaka,Indiana,United States,26,Blonde Czich,American Blonde Ale,0.049
+Evil Czech Brewery,brewpub,Mishawaka,Indiana,United States,26,White Reaper,Belgian IPA,0.07
+Evil Czech Brewery,brewpub,Mishawaka,Indiana,United States,26,Bobblehead,American Pale Wheat Ale,0.051
+Evil Czech Brewery,brewpub,Mishawaka,Indiana,United States,26,Lucky Dog,American Pale Ale (APA),0.052000000000000005
+Evil Czech Brewery,brewpub,Mishawaka,Indiana,United States,26,Voodoo,American Porter,0.048
+Evil Czech Brewery,brewpub,Mishawaka,Indiana,United States,26,General George Patton Pilsner,Czech Pilsener,0.054000000000000006
+Fat Head's Brewery,regional,Middleburg Heights,Ohio,United States,224,Trail Head,American Pale Ale (APA),0.063
+Fat Head's Brewery,regional,Middleburg Heights,Ohio,United States,224,Hop Stalker Fresh Hop IPA,American IPA,0.07
+Flat 12 Bierwerks,micro,Indianapolis,Indiana,United States,16,Deflator,Doppelbock,0.065
+Flat 12 Bierwerks,micro,Indianapolis,Indiana,United States,16,Hinchtown Hammer Down,American Blonde Ale,0.05
+Flat 12 Bierwerks,micro,Indianapolis,Indiana,United States,16,Half Cycle IPA,American IPA,0.06
+Flying Dog Brewery,regional,Frederick,Maryland,United States,521,Snake Dog IPA,American IPA,0.071
+Flying Dog Brewery,regional,Frederick,Maryland,United States,521,Underdog Atlantic Lager,American Pale Lager,0.047
+Flying Mouse Brewery,micro,Troutville,Virginia,United States,50,Flying Mouse 8,American Porter,0.04
+Flying Mouse Brewery,micro,Troutville,Virginia,United States,50,Flying Mouse 4,American IPA,0.07
+Foolproof Brewing Company,micro,Pawtucket,Rhode Island,United States,279,La Ferme Urbaine Farmhouse Ale,Saison / Farmhouse Ale,0.078
+Foolproof Brewing Company,micro,Pawtucket,Rhode Island,United States,279,Backyahd IPA,American IPA,0.06
+Foolproof Brewing Company,micro,Pawtucket,Rhode Island,United States,279,Raincloud Robust Porter,American Porter,0.065
+Foolproof Brewing Company,micro,Pawtucket,Rhode Island,United States,279,Barstool American Golden Ale,American Blonde Ale,0.045
+Fort George Brewery,regional,Astoria,Oregon,United States,206,Quick WIT,Belgian Pale Ale,0.052000000000000005
+Fort George Brewery,regional,Astoria,Oregon,United States,206,The Optimist,American IPA,0.062
+Fort George Brewery,regional,Astoria,Oregon,United States,206,Suicide Squeeze IPA,American IPA,0.045
+Fort George Brewery,regional,Astoria,Oregon,United States,206,Java the Hop,American IPA,0.065
+Fort George Brewery,regional,Astoria,Oregon,United States,206,Next Adventure Black IPA,American Black Ale,0.062
+Fort George Brewery,regional,Astoria,Oregon,United States,206,3-Way IPA (2013),American IPA,0.067
+Fort George Brewery,regional,Astoria,Oregon,United States,206,Tender Loving Empire NWPA,American Pale Ale (APA),0.058
+Fort George Brewery,regional,Astoria,Oregon,United States,206,Quick Wit Belgianesque Ale,Witbier,0.052000000000000005
+Fort George Brewery,regional,Astoria,Oregon,United States,206,Sunrise Oatmeal Pale Ale,American Pale Ale (APA),0.055
+Fort George Brewery,regional,Astoria,Oregon,United States,206,Cavatica Stout,American Double / Imperial Stout,0.08800000000000001
+Fort George Brewery,regional,Astoria,Oregon,United States,206,1811 Lager,American Amber / Red Lager,0.051
+Fort George Brewery,regional,Astoria,Oregon,United States,206,Vortex IPA,American IPA,0.07400000000000001
+Fort Point Beer Company,regional,San Francisco,California,United States,4,Park,American Pale Wheat Ale,0.047
+Fort Point Beer Company,regional,San Francisco,California,United States,4,Westfalia,American Amber / Red Ale,0.056
+Fort Point Beer Company,regional,San Francisco,California,United States,4,KSA,Kölsch,0.046
+Fort Point Beer Company,regional,San Francisco,California,United States,4,Villager,American IPA,0.063
+Four String Brewing Company,micro,Columbus,Ohio,United States,105,Four String Vanilla Porter,American Porter,0.06
+Four String Brewing Company,micro,Columbus,Ohio,United States,105,Suncaster Summer Wheat,American Pale Wheat Ale,0.05
+Four String Brewing Company,micro,Columbus,Ohio,United States,105,Brass Knuckle Pale Ale,American Pale Ale (APA),0.057
+Four String Brewing Company,micro,Columbus,Ohio,United States,105,Big Star White IPA,American White IPA,0.07
+Frog Level Brewing Company,micro,Waynesville,North Carolina,United States,180,Salamander Slam,American IPA,0.07
+Fullsteam Brewery,micro,Durham,North Carolina,United States,347,Cack-A-Lacky,American Pale Ale (APA),0.05
+Golden Road Brewing,large,Anaheim,California,United States,240,Might As Well IPL,American Pale Lager,0.07200000000000001
+Golden Road Brewing,large,Anaheim,California,United States,240,Saison Pamplemousse,Saison / Farmhouse Ale,0.058
+Golden Road Brewing,large,Anaheim,California,United States,240,2020 IPA,American IPA,0.07400000000000001
+Golden Road Brewing,large,Anaheim,California,United States,240,Wolf Among Weeds IPA,American IPA,0.08
+Golden Road Brewing,large,Anaheim,California,United States,240,Better Weather IPA,American IPA,0.094
+Golden Road Brewing,large,Anaheim,California,United States,240,Point the Way IPA,American IPA,0.059
+Golden Road Brewing,large,Anaheim,California,United States,240,Golden Road Hefeweizen,Hefeweizen,0.046
+Golden Road Brewing,large,Anaheim,California,United States,240,Heal the Bay IPA,American IPA,0.068
+Golden Road Brewing,large,Anaheim,California,United States,240,Point the Way IPA,American IPA,0.059
+Golden Road Brewing,large,Anaheim,California,United States,240,Cabrillo Kölsch,Kölsch,0.05
+Golden Road Brewing,large,Anaheim,California,United States,240,Get Up Offa That Brown,American Brown Ale,0.055
+Golden Road Brewing,large,Anaheim,California,United States,240,Burning Bush Smoked IPA,American IPA,0.08
+Golden Road Brewing,large,Anaheim,California,United States,240,Wolf Among Weeds IPA (2012),American IPA,0.08
+Golden Road Brewing,large,Anaheim,California,United States,240,Point the Way IPA (2012),American IPA,0.059
+Golden Road Brewing,large,Anaheim,California,United States,240,Golden Road Hefeweizen (2012),Hefeweizen,0.046
+Golden Road Brewing,large,Los Angeles,California,United States,240,Might As Well IPL,American Pale Lager,0.07200000000000001
+Golden Road Brewing,large,Los Angeles,California,United States,240,Saison Pamplemousse,Saison / Farmhouse Ale,0.058
+Golden Road Brewing,large,Los Angeles,California,United States,240,2020 IPA,American IPA,0.07400000000000001
+Golden Road Brewing,large,Los Angeles,California,United States,240,Wolf Among Weeds IPA,American IPA,0.08
+Golden Road Brewing,large,Los Angeles,California,United States,240,Better Weather IPA,American IPA,0.094
+Golden Road Brewing,large,Los Angeles,California,United States,240,Point the Way IPA,American IPA,0.059
+Golden Road Brewing,large,Los Angeles,California,United States,240,Golden Road Hefeweizen,Hefeweizen,0.046
+Golden Road Brewing,large,Los Angeles,California,United States,240,Heal the Bay IPA,American IPA,0.068
+Golden Road Brewing,large,Los Angeles,California,United States,240,Point the Way IPA,American IPA,0.059
+Golden Road Brewing,large,Los Angeles,California,United States,240,Cabrillo Kölsch,Kölsch,0.05
+Golden Road Brewing,large,Los Angeles,California,United States,240,Get Up Offa That Brown,American Brown Ale,0.055
+Golden Road Brewing,large,Los Angeles,California,United States,240,Burning Bush Smoked IPA,American IPA,0.08
+Golden Road Brewing,large,Los Angeles,California,United States,240,Wolf Among Weeds IPA (2012),American IPA,0.08
+Golden Road Brewing,large,Los Angeles,California,United States,240,Point the Way IPA (2012),American IPA,0.059
+Golden Road Brewing,large,Los Angeles,California,United States,240,Golden Road Hefeweizen (2012),Hefeweizen,0.046
+Gore Range Brewery,brewpub,Edwards,Colorado,United States,420,Beaver Logger,American Pale Lager,0.052000000000000005
+Grand Canyon Brewing Company,micro,Williams,Arizona,United States,536,White Water Wheat,American Pale Wheat Ale,0.05
+Grand Canyon Brewing Company,micro,Williams,Arizona,United States,536,Grand Canyon American Pilsner,American Pilsner,0.052000000000000005
+Grand Canyon Brewing Company,micro,Williams,Arizona,United States,536,Grand Canyon Sunset Amber Ale,American Amber / Red Ale,0.054000000000000006
+Grand Canyon Brewing Company,micro,Williams,Arizona,United States,536,Black Iron India Pale Ale,American IPA,
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Beer Agent Re-Ignition,American Blonde Ale,0.053
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Cherry Ale,Fruit / Vegetable Beer,0.057
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Bourbon Barrel Aged Coconut Porter,American Porter,0.056
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent IPA,American IPA,0.062
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Aurora Lager,Dortmunder / Export Lager,0.057
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent Blonde Ale,American Blonde Ale,0.053
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent Coconut Porter,American Porter,0.056
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent Oktoberfest Lager,Märzen / Oktoberfest,0.057
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent Brown Ale,American Brown Ale,0.045
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Cherry Ale (1),Fruit / Vegetable Beer,0.057
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Aurora Lager (2011),Dortmunder / Export Lager,0.057
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Frosted Fields Winter Wheat,American Dark Wheat Ale,0.06
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent Belgian Style Wit,Witbier,0.051
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Bourbon's Barrel Stout,American Stout,0.075
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent Stout,English Stout,0.08
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent Coconut Porter (2012),American Porter,0.056
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent Dark Lager,Euro Dark Lager,0.057
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent Mild Ale,English Dark Mild Ale,0.042
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent IPA (2011),American IPA,0.062
+Great Crescent Brewery,micro,Aurora,Indiana,United States,165,Great Crescent Blonde Ale (2011),American Blonde Ale,0.053
+Great River Brewery,micro,Davenport,Iowa,United States,365,Chickawawa Lemonale,Fruit / Vegetable Beer,0.05
+Great River Brewery,micro,Davenport,Iowa,United States,365,Barrel Aged Farmer,American Brown Ale,0.07
+Great River Brewery,micro,Davenport,Iowa,United States,365,Great River Golden Ale,American Blonde Ale,0.048
+Great River Brewery,micro,Davenport,Iowa,United States,365,Dirty Blonde Chocolate Ale,American Blonde Ale,0.048
+Great River Brewery,micro,Davenport,Iowa,United States,365,Dos Pistolas,Vienna Lager,0.048
+Great River Brewery,micro,Davenport,Iowa,United States,365,Owney Irish Style Red Ale,Irish Red Ale,0.05
+Great River Brewery,micro,Davenport,Iowa,United States,365,Aaah Bock Lager,Vienna Lager,0.06
+Great River Brewery,micro,Davenport,Iowa,United States,365,Widespread Wit,Witbier,0.055
+Great River Brewery,micro,Davenport,Iowa,United States,365,Roller Dam Red Ale,Irish Red Ale,0.054000000000000006
+Great River Brewery,micro,Davenport,Iowa,United States,365,483 Pale Ale,American Pale Ale (APA),0.053
+Great River Brewery,micro,Davenport,Iowa,United States,365,Hop A Potamus Double Dark Rye Pale Ale,Rye Beer,0.09
+Great River Brewery,micro,Davenport,Iowa,United States,365,Farmer Brown Ale,American Brown Ale,0.07
+Great River Brewery,micro,Davenport,Iowa,United States,365,Big Cock IPA,American IPA,0.07
+Great River Brewery,micro,Davenport,Iowa,United States,365,Oktoberfest,Märzen / Oktoberfest,0.059
+Great River Brewery,micro,Davenport,Iowa,United States,365,40th Annual Bix Street Fest Copper Ale (Current),American Amber / Red Ale,0.048
+Great River Brewery,micro,Davenport,Iowa,United States,365,Redband Stout,American Stout,0.06
+Great River Brewery,micro,Davenport,Iowa,United States,365,483 Pale Ale (2010),American Pale Ale (APA),0.053
+Great River Brewery,micro,Davenport,Iowa,United States,365,Roller Dam Red Ale (2010),Irish Red Ale,0.054000000000000006
+Green Room Brewing,micro,Jacksonville Beach,Florida,United States,466,Pablo Beach Pale Ale,American Pale Ale (APA),0.05
+Half Full Brewery,micro,Stamford,Connecticut,United States,248,Pursuit,American IPA,0.07
+Half Full Brewery,micro,Stamford,Connecticut,United States,248,Half Full Bright Ale,American Blonde Ale,0.052000000000000005
+Hangar 24 Craft Brewery,regional,Redlands,California,United States,476,Orange Wheat,Fruit / Vegetable Beer,0.046
+Hangar 24 Craft Brewery,regional,Redlands,California,United States,476,Hangar 24 Helles Lager,Munich Helles Lager,0.043
+Hardywood Park Craft Brewery,micro,Richmond,Virginia,United States,343,The Great Return,American IPA,0.075
+Hardywood Park Craft Brewery,micro,Richmond,Virginia,United States,343,Hardywood Cream Ale,Cream Ale,0.044
+Hardywood Park Craft Brewery,micro,Richmond,Virginia,United States,343,Capital Trail Pale Ale,American Pale Ale (APA),0.056
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,UFO Gingerland,Herbed / Spiced Beer,0.052000000000000005
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,The Long Thaw White IPA,American White IPA,0.062
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,Honey Cider,Cider,0.048
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,Harpoon Summer Beer,Kölsch,0.05
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,Harpoon IPA,American IPA,0.059
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,UFO Pumpkin,Pumpkin Ale,0.059
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,Harpoon Octoberfest,Märzen / Oktoberfest,0.055
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,Harpoon IPA (2012),American IPA,0.059
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,Harpoon Summer Beer (2012),Kölsch,0.05
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,UFO White,American Pale Wheat Ale,0.048
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,Harpoon Summer Beer (2010),Kölsch,0.05
+Harpoon Brewery,regional,Boston,Massachusetts,United States,234,Harpoon IPA (2010),American IPA,0.059
+Headlands Brewing Company,proprietor,Mill Valley,California,United States,280,Groupe G,Belgian IPA,0.076
+Headlands Brewing Company,proprietor,Mill Valley,California,United States,280,Pt. Bonita Rustic Lager,American Pale Lager,0.062
+Headlands Brewing Company,proprietor,Mill Valley,California,United States,280,Hill 88 Double IPA,American Double / Imperial IPA,0.08800000000000001
+Heavy Seas Beer,regional,Baltimore,Maryland,United States,479,Loose Cannon,American IPA,0.07200000000000001
+Heavy Seas Beer,regional,Baltimore,Maryland,United States,479,AARGHtoberfest!,Märzen / Oktoberfest,0.06
+Heavy Seas Beer,regional,Baltimore,Maryland,United States,479,Davy Jones Lager,Cream Ale,0.06
+High Hops Brewery,micro,Windsor,Colorado,United States,168,The Golden One,American Pilsner,0.063
+High Hops Brewery,micro,Windsor,Colorado,United States,168,The Power of Zeus,American Pale Ale (APA),0.07
+Hinterland Brewery,micro,Green Bay,Wisconsin,United States,349,White Cap White IPA,American White IPA,0.042
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Hard Cider,Cider,0.068
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Totally Radler,Radler,0.027000000000000003
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Nonstop Hef Hop,American Pale Wheat Ale,0.039
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Rise Up Red,American Amber / Red Ale,0.058
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Survival Stout,American Stout,0.058
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Hopworks IPA,American IPA,0.066
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Abominable Winter Ale,American Strong Ale,0.073
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Pigwar White India Pale Ale,American White IPA,0.06
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Rise-Up Red (2014),American Amber / Red Ale,0.058
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Abominable Winter Ale (2012),American Strong Ale,0.073
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,HUB Lager,Czech Pilsener,0.051
+Hopworks Urban Brewery,micro,Portland,Oregon,United States,80,Hopworks IPA (2012),American IPA,0.066
+Indiana City Brewing,micro,Indianapolis,Indiana,United States,23,Tribute,American Pale Ale (APA),0.058
+Intuition Ale Works,micro,Jacksonville,Florida,United States,527,Jon Boat Coastal Ale,American Blonde Ale,0.045
+Intuition Ale Works,micro,Jacksonville,Florida,United States,527,I-10 IPA,American IPA,0.068
+Intuition Ale Works,micro,Jacksonville,Florida,United States,527,People's Pale Ale,American Pale Ale (APA),0.053
+Ipswich Ale Brewery,regional,Ipswich,Massachusetts,United States,123,Summer Ale,American Blonde Ale,0.049
+Jackie O's Pub & Brewery,brewpub,Athens,Ohio,United States,92,Razz Wheat,Fruit / Vegetable Beer,0.055
+Jackie O's Pub & Brewery,brewpub,Athens,Ohio,United States,92,Hop Ryot,American IPA,0.065
+Jackie O's Pub & Brewery,brewpub,Athens,Ohio,United States,92,Mystic Mama IPA,American IPA,0.07
+Jackie O's Pub & Brewery,brewpub,Athens,Ohio,United States,92,Firefly Amber Ale,American Amber / Red Ale,0.05
+Jackie O's Pub & Brewery,brewpub,Athens,Ohio,United States,92,Chomolungma Honey Nut Brown Ale,English Brown Ale,0.067
+Jailbreak Brewing Company,micro,Laurel,Maryland,United States,114,Welcome to Scoville,American IPA,0.069
+Kalona Brewing Company,brewpub,Kalona,Iowa,United States,208,Sucha Much IPA,American IPA,0.071
+Kalona Brewing Company,brewpub,Kalona,Iowa,United States,208,Lewbricator Wheat Dopplebock ,Doppelbock,0.075
+KelSo Beer Company,contract,Brooklyn,New York,United States,342,KelSo Nut Brown Lager,Euro Dark Lager,0.057
+KelSo Beer Company,contract,Brooklyn,New York,United States,342,KelSo India Pale Ale,American IPA,0.06
+KelSo Beer Company,contract,Brooklyn,New York,United States,342,KelSo Pilsner,Czech Pilsener,0.055
+Lazy Monk Brewing,micro,Eau Claire,Wisconsin,United States,406,Lazy Monk Bohemian Pilsner,Czech Pilsener,0.05
+Liquid Hero Brewery,micro,York,Pennsylvania,United States,298,Adam's Stout,American Stout,0.058
+Liquid Hero Brewery,micro,York,Pennsylvania,United States,298,American Hero,American Amber / Red Ale,0.057
+Liquid Hero Brewery,micro,York,Pennsylvania,United States,298,Schweet Ale,Fruit / Vegetable Beer,0.052000000000000005
+Liquid Hero Brewery,micro,York,Pennsylvania,United States,298,Irregardless IPA,American IPA,0.065
+Lost Nation Brewing,brewpub,Morrisville,Vermont,United States,41,Gose,Gose,0.046
+Lost Nation Brewing,brewpub,Morrisville,Vermont,United States,41,Vermont Pilsner,German Pilsener,0.048
+Lost Nation Brewing,brewpub,Morrisville,Vermont,United States,41,Mosaic Single Hop IPA,American IPA,0.055
+Lost Nation Brewing,brewpub,Morrisville,Vermont,United States,41,Lost Galaxy,American IPA,0.045
+Macon Beer Company,proprietor,Macon,Georgia,United States,400,Macon Progress Ale,American Pale Ale (APA),0.05
+Macon Beer Company,proprietor,Macon,Georgia,United States,400,Macon History Ale,American Brown Ale,0.055
+Mammoth Brewing Company,micro,Mammoth Lakes,California,United States,534,High Country Pilsner (Current),German Pilsener,0.042
+Mammoth Brewing Company,micro,Mammoth Lakes,California,United States,534,Epic IPA,American IPA,0.065
+Mammoth Brewing Company,micro,Mammoth Lakes,California,United States,534,Golden Trout Pilsner,German Pilsener,0.042
+Mammoth Brewing Company,micro,Mammoth Lakes,California,United States,534,Real McCoy Amber Ale (Current),American Amber / Red Ale,0.045
+Martin House Brewing Company,micro,Fort Worth,Texas,United States,161,River House,Saison / Farmhouse Ale,0.05
+Martin House Brewing Company,micro,Fort Worth,Texas,United States,161,Pretzel Stout,American Stout,0.065
+Martin House Brewing Company,micro,Fort Worth,Texas,United States,161,Rubberneck Red,American Amber / Red Ale,0.05
+Martin House Brewing Company,micro,Fort Worth,Texas,United States,161,The Imperial Texan,American Double / Imperial IPA,0.08
+Martin House Brewing Company,micro,Fort Worth,Texas,United States,161,The Imperial Texan,American Double / Imperial IPA,0.08
+Martin House Brewing Company,micro,Fort Worth,Texas,United States,161,Day Break 4-Grain Breakfast Beer,Rye Beer,0.05
+Martin House Brewing Company,micro,Fort Worth,Texas,United States,161,River House Saison,Saison / Farmhouse Ale,0.05
+Martin House Brewing Company,micro,Fort Worth,Texas,United States,161,There Will Be Stout,American Stout,0.065
+Mikerphone Brewing,micro,Elk Grove Village,Illinois,United States,65,Vinyl Frontier,American Double / Imperial IPA,0.083
+Mikerphone Brewing,micro,Elk Grove Village,Illinois,United States,65,Disco Superfly,American IPA,0.08
+Mikerphone Brewing,micro,Elk Grove Village,Illinois,United States,65,Misty Mountain Hop,American IPA,0.075
+Mikerphone Brewing,micro,Elk Grove Village,Illinois,United States,65,One-Hit Wonderful,Belgian IPA,0.075
+Mikerphone Brewing,micro,Elk Grove Village,Illinois,United States,65,En Parfaite Harmonie,Saison / Farmhouse Ale,0.065
+Mikerphone Brewing,micro,Elk Grove Village,Illinois,United States,65,Daft Funk,Berliner Weissbier,0.043
+Mikerphone Brewing,micro,Elk Grove Village,Illinois,United States,65,Love In An Ellavator,American IPA,0.075
+Mikerphone Brewing,micro,Elk Grove Village,Illinois,United States,65,Spin Doctor,American Pale Ale (APA),0.053
+Milwaukee Brewing Company,micro,Milwaukee,Wisconsin,United States,284,Hop Freak,American Double / Imperial IPA,0.087
+Milwaukee Brewing Company,micro,Milwaukee,Wisconsin,United States,284,Louie's Demise Amber Ale,American Amber / Red Ale,0.051
+Milwaukee Brewing Company,micro,Milwaukee,Wisconsin,United States,284,Hop Happy,American IPA,0.075
+Milwaukee Brewing Company,micro,Milwaukee,Wisconsin,United States,284,Booyah Farmhouse Ale,Saison / Farmhouse Ale,0.065
+Milwaukee Brewing Company,micro,Milwaukee,Wisconsin,United States,284,O-Gii,Witbier,0.092
+Milwaukee Brewing Company,micro,Milwaukee,Wisconsin,United States,284,Flaming Damsel Lager (2010),Vienna Lager,0.048
+Milwaukee Brewing Company,micro,Milwaukee,Wisconsin,United States,284,Louie’s Demise Immort-Ale (2010),American Amber / Red Ale,0.051
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Axe Head Malt Liquor,American Malt Liquor,0.099
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Huber Bock (2014),Bock,0.054000000000000006
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Minhas Light (2012),Light Lager,0.04
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Huber,American Pale Lager,0.05
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Clear Creek Ice,American Pale Lager,0.062
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Clear Creek Ice,American Pale Lager,0.062
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Mountain Crest,American Pale Lager,0.055
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Mountain Crest,American Pale Lager,0.055
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Mountain Creek (2013),American Pale Lager,0.055
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Boxer,American Adjunct Lager,0.05
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Boxer Light,Light Lager,0.042
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Boxer Ice,American Adjunct Lager,0.055
+Minhas Craft Brewery,regional,Monroe,Wisconsin,United States,134,Boxer,American Adjunct Lager,0.05
+Mission Brewery,micro,San Diego,California,United States,98,Cortez Gold,Belgian Pale Ale,0.05
+Mission Brewery,micro,San Diego,California,United States,98,Mission IPA,American IPA,0.068
+Mission Brewery,micro,San Diego,California,United States,98,El Conquistador Extra Pale Ale,American Pale Ale (APA),0.048
+Mission Brewery,micro,San Diego,California,United States,98,Shipwrecked Double IPA,American Double / Imperial IPA,0.092
+Moab Brewery,micro,Moab,Utah,United States,399,Squeaky Bike Nut Brown Ale,American Brown Ale,0.04
+Moab Brewery,micro,Moab,Utah,United States,399,Dead Horse Amber,American Pale Wheat Ale,0.04
+Moab Brewery,micro,Moab,Utah,United States,399,Rocket Bike American Lager,California Common / Steam Beer,0.04
+Moab Brewery,micro,Moab,Utah,United States,399,Johnny's American IPA,American IPA,0.04
+Modern Times Beer,regional,San Diego,California,United States,209,City of the Sun,American IPA,0.075
+Modern Times Beer,regional,San Diego,California,United States,209,Booming Rollers,American IPA,0.068
+Modern Times Beer,regional,San Diego,California,United States,209,Oneida,American Pale Ale (APA),0.052000000000000005
+Modern Times Beer,regional,San Diego,California,United States,209,Aurora ,American Amber / Red Ale,0.067
+Modern Times Beer,regional,San Diego,California,United States,209,Lomaland,Saison / Farmhouse Ale,0.055
+Modern Times Beer,regional,San Diego,California,United States,209,Fortunate Islands,American Pale Wheat Ale,0.047
+Modern Times Beer,regional,San Diego,California,United States,209,Black House,American Stout,0.058
+Modern Times Beer,regional,San Diego,California,United States,209,Blazing World,American Amber / Red Ale,0.065
+Morgan Street Brewery,proprietor,Saint Louis,Missouri,United States,326,When Helles Freezes Over,Munich Helles Lager,0.056
+Morgan Street Brewery,proprietor,Saint Louis,Missouri,United States,326,Morgan Street Oktoberfest,Märzen / Oktoberfest,0.049
+Morgan Street Brewery,proprietor,Saint Louis,Missouri,United States,326,Honey Wheat,American Pale Wheat Ale,0.047
+Morgan Street Brewery,proprietor,Saint Louis,Missouri,United States,326,Black Bear Dark Lager,Schwarzbier,0.046
+Morgan Street Brewery,proprietor,Saint Louis,Missouri,United States,326,Golden Pilsner,German Pilsener,0.05
+Natian Brewery,micro,Portland,Oregon,United States,387,Undun Blonde Ale,American Blonde Ale,0.053
+Natian Brewery,micro,Portland,Oregon,United States,387,CuDa Cascadian Dark Ale,American Black Ale,0.07400000000000001
+Natian Brewery,micro,Portland,Oregon,United States,387,Old Grogham Imperial India Pale Ale,American Double / Imperial IPA,0.085
+Natian Brewery,micro,Portland,Oregon,United States,387,Old Grogham Imperial India Pale Ale (2012),American Double / Imperial IPA,0.085
+Natian Brewery,micro,Portland,Oregon,United States,387,CuDa Cascadian Dark Ale (2012),American Black Ale,0.07400000000000001
+Natian Brewery,micro,Portland,Oregon,United States,387,Undun Blonde Ale (2012),American Blonde Ale,0.053
+Newburgh Brewing Company,micro,Newburgh,New York,United States,238,Cream Ale,Cream Ale,0.042
+Northampton Brewery,brewpub,Northampton,Massachusetts,United States,293,Blue Boots IPA,American IPA,0.069
+Northwest Brewing Company,contract,Pacific,Washington,United States,450,Hoppy Bitch IPA,American IPA,0.063
+Northwest Brewing Company,contract,Pacific,Washington,United States,450,Three Skulls Ale Pale Ale,American Pale Ale (APA),0.063
+O'Fallon Brewery,micro,Maryland Heights,Missouri,United States,442,O'Fallon Pumpkin Beer,Pumpkin Ale,0.055
+O'Fallon Brewery,micro,Maryland Heights,Missouri,United States,442,5 Day IPA,American IPA,0.061
+O'Fallon Brewery,micro,Maryland Heights,Missouri,United States,442,O'Fallon Wheach,Fruit / Vegetable Beer,0.051
+Oakshire Brewing,micro,Eugene,Oregon,United States,150,Watershed IPA,American IPA,0.067
+Oakshire Brewing,micro,Eugene,Oregon,United States,150,Oakshire Amber Ale,American Amber / Red Ale,0.054000000000000006
+Oakshire Brewing,micro,Eugene,Oregon,United States,150,Overcast Espresso Stout,American Stout,0.058
+Oakshire Brewing,micro,Eugene,Oregon,United States,150,Watershed IPA (2013),American IPA,0.067
+Oasis Texas Brewing Company,micro,Austin,Texas,United States,184,Lake Monster,Baltic Porter,0.08199999999999999
+Oasis Texas Brewing Company,micro,Austin,Texas,United States,184,London Homesick Ale,English Bitter,0.049
+Oasis Texas Brewing Company,micro,Austin,Texas,United States,184,Luchesa Lager,Keller Bier / Zwickel Bier,0.048
+Oasis Texas Brewing Company,micro,Austin,Texas,United States,184,Slow Ride,American Pale Ale (APA),0.048
+Odyssey Beerwerks,micro,Arvada,Colorado,United States,148,Perpetual Darkness,Belgian Strong Dark Ale,0.092
+Odyssey Beerwerks,micro,Arvada,Colorado,United States,148,Clan Warrior,Scotch Ale / Wee Heavy,0.087
+Odyssey Beerwerks,micro,Arvada,Colorado,United States,148,Psycho Penguin Vanilla Porter,American Porter,0.054000000000000006
+Odyssey Beerwerks,micro,Arvada,Colorado,United States,148,Heliocentric Hefeweizen,Hefeweizen,0.047
+Odyssey Beerwerks,micro,Arvada,Colorado,United States,148,Ghose Drifter Pale Ale,American Pale Ale (APA),0.051
+Odyssey Beerwerks,micro,Arvada,Colorado,United States,148,Ghost Rider Pale Ale (2013),American Pale Ale (APA),0.051
+Odyssey Beerwerks,micro,Arvada,Colorado,United States,148,Helios Hefeweizen (2013),Hefeweizen,0.047
+Orpheus Brewing,micro,Atlanta,Georgia,United States,216,Lyric Ale,Saison / Farmhouse Ale,0.065
+Orpheus Brewing,micro,Atlanta,Georgia,United States,216,Atalanta,Saison / Farmhouse Ale,0.053
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Pinner Throwback IPA,American IPA,0.049
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Centennial State Pale Ale,American Pale Ale (APA),0.052000000000000005
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Old Chub NITRO,Scotch Ale / Wee Heavy,0.08
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,The CROWLER™,,
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,CAN'D AID Foundation,,
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Icey.P.A.,American IPA,
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,One Nut Brown,English Brown Ale,0.05
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Birth IPA,American IPA,
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Dale's Pale Ale,American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Dale's Pale Ale,American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Mama's Little Yella Pils,Czech Pilsener,0.053
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,oSKAr the G'Rauch,American IPA,0.085
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,oSKAr the G'Rauch,American IPA,0.085
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Dale's Pale Ale,American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,The Deuce,American Brown Ale,0.07
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Dale's Pale Ale (10 Year Anniversary),American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Dale's Pale Ale (2012),American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Gordon Imperial Red (2010),American Double / Imperial IPA,0.087
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Dale's Pale Ale (2011),American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Dale's Pale Ale (2010),American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,G'KNIGHT (16 oz.),American Double / Imperial IPA,0.087
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,15th Anniversary Abbey Ale (2012),Belgian Dark Ale,0.09
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Chaka,Belgian Strong Pale Ale,0.08
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,HGH (Home Grown Hops): Part Duh,American Strong Ale,0.08
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Deviant Dale's IPA,American Double / Imperial IPA,0.08
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,One Hit Wonder,American Double / Imperial IPA,0.09
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,G'KNIGHT (12 oz.),American Double / Imperial IPA,0.087
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Ten Fidy Imperial Stout,Russian Imperial Stout,0.099
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Mama's Little Yella Pils,Czech Pilsener,0.053
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,GUBNA Imperial IPA,American Double / Imperial IPA,0.099
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Old Chub,Scottish Ale,0.08
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Gordon Ale (2009),American Double / Imperial IPA,0.087
+Oskar Blues Brewery,micro,Austin,Texas,United States,166,Dale's Pale Ale,American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Gordon (2005),American Double / Imperial IPA,0.092
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Ten Fidy Imperial Stout (2008),Russian Imperial Stout,0.095
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Ten Fidy Imperial Stout (2007),Russian Imperial Stout,0.099
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Old Chub (2008),Scottish Ale,0.08
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Old Chub (2004),Scottish Ale,0.08
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Old Chub (2003),Scottish Ale,0.08
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Dale's Pale Ale (2008),American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Dale's Pale Ale (2006),American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Dale's Pale Ale (2004),American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Dale's Pale Ale (2003),American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Dale's Pale Ale (2002),American Pale Ale (APA),0.065
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Leroy (2005),American Brown Ale,0.052000000000000005
+Oskar Blues Brewery,micro,Austin,Texas,United States,503,Gordon Beer (2006),American Double / Imperial IPA,0.087
+Ozark Beer Company,micro,Rogers,Arkansas,United States,259,Ozark American Pale Ale,American Pale Ale (APA),0.04
+Palisade Brewing Company,brewpub,Palisade,Colorado,United States,341,Hula Hoppie Session IPA,American IPA,0.048
+Palisade Brewing Company,brewpub,Palisade,Colorado,United States,341,Dirty Hippie Dark Wheat,American Dark Wheat Ale,0.053
+Peace Tree Brewing Company,micro,Knoxville,Iowa,United States,468,Side Kick Kölsch,Kölsch,0.05
+Perrin Brewing Company,regional,Comstock Park,Michigan,United States,13,Hotbox Brown,American Brown Ale,0.055
+Perrin Brewing Company,regional,Comstock Park,Michigan,United States,13,Gold,American Blonde Ale,0.048
+Perrin Brewing Company,regional,Comstock Park,Michigan,United States,13,Black,American Black Ale,0.058
+Perrin Brewing Company,regional,Comstock Park,Michigan,United States,13,98 Problems (Cuz A Hop Ain't One),American IPA,0.065
+Perrin Brewing Company,regional,Comstock Park,Michigan,United States,13,Veteran’s Pale Ale (VPA),American Pale Ale (APA),0.05
+Perrin Brewing Company,regional,Comstock Park,Michigan,United States,13,Grapefruit IPA,American IPA,0.05
+Petoskey Brewing,micro,Petoskey,Michigan,United States,11,Sparkle,American Pale Lager,0.041
+Petoskey Brewing,micro,Petoskey,Michigan,United States,11,North 45 Amber Ale,American Amber / Red Ale,0.059
+Petoskey Brewing,micro,Petoskey,Michigan,United States,11,Horny Monk,Dubbel,0.069
+Petoskey Brewing,micro,Petoskey,Michigan,United States,11,Mind's Eye PA,American IPA,0.067
+Pine Street Brewery,micro,San Francisco,California,United States,310,Black Bay Milk Stout,Milk / Sweet Stout,0.05
+Pine Street Brewery,micro,San Francisco,California,United States,310,Atom Splitter Pale Ale,American Pale Ale (APA),0.05
+Piney River Brewing Company,micro,Bucyrus,Missouri,United States,314,Hot Date Ale,Chile Beer,0.06
+Piney River Brewing Company,micro,Bucyrus,Missouri,United States,314,Masked Bandit IPA,American Black Ale,0.07
+Piney River Brewing Company,micro,Bucyrus,Missouri,United States,314,Sweet Potato Ale,Fruit / Vegetable Beer,0.06
+Piney River Brewing Company,micro,Bucyrus,Missouri,United States,314,Float Trip Ale,American Blonde Ale,0.045
+Piney River Brewing Company,micro,Bucyrus,Missouri,United States,314,Old Tom Porter,American Porter,0.055
+Piney River Brewing Company,micro,Bucyrus,Missouri,United States,314,Black Walnut Wheat,American Dark Wheat Ale,0.045
+Piney River Brewing Company,micro,Bucyrus,Missouri,United States,314,McKinney Eddy Amber Ale,American Amber / Red Ale,0.055
+Piney River Brewing Company,micro,Bucyrus,Missouri,United States,314,Missouri Mule India Pale Ale,American IPA,0.07
+Pollyanna Brewing Company,micro,Lemont,Illinois,United States,55,Mazzie,American Pale Ale (APA),0.054000000000000006
+Quest Brewing Company,micro,Greenville,South Carolina,United States,246,Golden Fleece,Belgian Pale Ale,0.045
+Quest Brewing Company,micro,Greenville,South Carolina,United States,246,Smoking Mirror,American Porter,0.055
+Red Hare Brewing Company,micro,Marietta,Georgia,United States,475,Watership Brown Ale,American Brown Ale,0.07200000000000001
+Red Hare Brewing Company,micro,Marietta,Georgia,United States,475,Gangway IPA,American IPA,0.062
+Red Hare Brewing Company,micro,Marietta,Georgia,United States,475,Long Day Lager,Czech Pilsener,0.049
+Redhook Brewery,regional,Seattle,Washington,United States,487,Long Hammer IPA,American IPA,0.065
+Redhook Brewery,regional,Seattle,Washington,United States,487,Long Hammer IPA,American IPA,0.065
+Redhook Brewery,regional,Seattle,Washington,United States,487,Copper Hook (2011),American Amber / Red Ale,0.058
+Renegade Brewing Company,micro,Denver,Colorado,United States,110,Consilium,American Pale Ale (APA),0.05
+Renegade Brewing Company,micro,Denver,Colorado,United States,110,Hammer & Sickle,Russian Imperial Stout,0.09
+Renegade Brewing Company,micro,Denver,Colorado,United States,110,Redacted Rye IPA,American IPA,0.07
+Renegade Brewing Company,micro,Denver,Colorado,United States,110,Elevation Triple India Pale Ale,American Double / Imperial IPA,0.099
+Renegade Brewing Company,micro,Denver,Colorado,United States,110,5:00 O'Clock Afternoon Ale,American Blonde Ale,0.05
+Renegade Brewing Company,micro,Denver,Colorado,United States,110,Ryeteous Rye IPA (2012),American IPA,0.07
+Revolution Brewing,regional,Chicago,Illinois,United States,386,Stout Ol' Friend,American Stout,0.064
+Revolution Brewing,regional,Chicago,Illinois,United States,386,Stout Ol' Friend (2012),American Stout,0.064
+Revolution Brewing,regional,Chicago,Illinois,United States,386,Rye Porter,American Porter,
+Revolution Brewing,regional,Chicago,Illinois,United States,386,Miner's Gold,American Blonde Ale,0.05
+Revolution Brewing,regional,Chicago,Illinois,United States,386,Vienna Lager,Vienna Lager,0.046
+Revolution Brewing,regional,Chicago,Illinois,United States,386,Jessie's Garage,American Pale Ale (APA),0.056
+Revolution Brewing,regional,Chicago,Illinois,United States,386,Colorado Red Ale,American Amber / Red Ale,0.062
+Revolution Brewing,regional,Chicago,Illinois,United States,386,Miner's Gold,American Blonde Ale,
+Rhinegeist Brewery,regional,Cincinnati,Ohio,United States,93,Hustle,American Amber / Red Ale,0.057
+Rhinegeist Brewery,regional,Cincinnati,Ohio,United States,93,Pure Fury,American Pale Ale (APA),0.055
+Rhinegeist Brewery,regional,Cincinnati,Ohio,United States,93,Dad,American Amber / Red Ale,0.06
+Rhinegeist Brewery,regional,Cincinnati,Ohio,United States,93,Panther,American Porter,0.058
+Rhinegeist Brewery,regional,Cincinnati,Ohio,United States,93,Franz,Märzen / Oktoberfest,0.052000000000000005
+Rhinegeist Brewery,regional,Cincinnati,Ohio,United States,93,Zen,American Pale Ale (APA),0.043
+Rhinegeist Brewery,regional,Cincinnati,Ohio,United States,93,Truth,American IPA,0.07200000000000001
+Rhinegeist Brewery,regional,Cincinnati,Ohio,United States,93,Cougar,American Blonde Ale,0.048
+Right Brain Brewery,micro,Traverse City,Michigan,United States,162,Smooth Operator,Cream Ale,0.038
+River North Brewery,micro,Denver,Colorado,United States,459,River North White Ale,Witbier,0.05
+River North Brewery,micro,Denver,Colorado,United States,459,River North Ale,American Amber / Red Ale,0.05
+Santa Cruz Mountain Brewing,brewpub,Santa Cruz,California,United States,252,Giant DIPA,American Double / Imperial IPA,0.08900000000000001
+Santa Cruz Mountain Brewing,brewpub,Santa Cruz,California,United States,252,Dread Brown Ale,American Brown Ale,0.054000000000000006
+Santa Cruz Mountain Brewing,brewpub,Santa Cruz,California,United States,252,Casinos IPA,English India Pale Ale (IPA),0.07
+Seabright Brewery,brewpub,Santa Cruz,California,United States,432,Blur India Pale Ale,American IPA,0.07400000000000001
+Seven Brides Brewery,micro,Silverton,Oregon,United States,494,Frankenlou's IPA,American IPA,0.07
+Seven Brides Brewery,micro,Silverton,Oregon,United States,494,Becky's Black Cat Porter,American Porter,0.07
+Shebeen Brewing Company,micro,Wolcott,Connecticut,United States,130,Black Hop IPA,American Black Ale,0.068
+South Austin Brewery,micro,Austin,Texas,United States,257,LuckenBock,Bock,0.07
+South Austin Brewery,micro,Austin,Texas,United States,257,Texas Pale Ale (TPA),American IPA,0.055
+South Austin Brewery,micro,Austin,Texas,United States,257,6 String Saison,Saison / Farmhouse Ale,0.08
+South Austin Brewery,micro,Austin,Texas,United States,257,Kol' Beer,Kölsch,0.05
+Southampton Publick House,brewpub,Southampton,New York,United States,249,Montauk Light,Light Lager,0.035
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Special (Current),American Adjunct Lager,0.047
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Special,American Adjunct Lager,0.047
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Cascade Pale Ale (2013),American Pale Ale (APA),0.054000000000000006
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Special,American Adjunct Lager,0.047
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Onyx Black Ale,American Black Ale,0.052000000000000005
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Beyond The Pale IPA,American IPA,0.063
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Special (2013),American Adjunct Lager,0.047
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Special (2012),American Adjunct Lager,0.047
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Special Lager,American Adjunct Lager,0.047
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,St. Benedict's Winter Ale,Winter Warmer,0.062
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Oktoberfest,Märzen / Oktoberfest,0.057
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Nude Beach Summer Wheat,American Pale Wheat Ale,0.052000000000000005
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Nude Beach Summer Wheat,American Pale Wheat Ale,0.05
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Nude Beach Summer Wheat (2011),American Pale Wheat Ale,0.05
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Drop Dead Blonde,American Blonde Ale,0.035
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Three Kings Ale,Kölsch,0.049
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Oktoberfest,Märzen / Oktoberfest,0.057
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,2012 Black Ale,American Brown Ale,0.054000000000000006
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Nude Beach Summer Wheat (2010),American Pale Wheat Ale,0.05
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Cascade Pale Ale,American Pale Ale (APA),0.054000000000000006
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Amber Classic,American Amber / Red Lager,0.047
+Stevens Point Brewery,regional,Stevens Point,Wisconsin,United States,131,Point Special Lager,American Adjunct Lager,0.047
+Stillwater Artisanal Ales,contract,Baltimore,Maryland,United States,255,Brontide,American Black Ale,0.05
+Stillwater Artisanal Ales,contract,Baltimore,Maryland,United States,255,Brontide,American Black Ale,0.05
+Stillwater Artisanal Ales,contract,Baltimore,Maryland,United States,255,Classique,Saison / Farmhouse Ale,0.045
+Straight to Ale,micro,Huntsville,Alabama,United States,412,Sand Island Lighthouse,Kölsch,0.051
+Straight to Ale,micro,Huntsville,Alabama,United States,412,Lily Flagg Milk Stout,Milk / Sweet Stout,0.05
+Straight to Ale,micro,Huntsville,Alabama,United States,412,Monkeynaut IPA,American IPA,0.07200000000000001
+Straub Brewery,regional,Saint Marys,Pennsylvania,United States,129,Straub Beer (Current),American Adjunct Lager,0.05
+Straub Brewery,regional,Saint Marys,Pennsylvania,United States,129,American Lager,American Adjunct Lager,0.041
+Straub Brewery,regional,Saint Marys,Pennsylvania,United States,129,American Amber,American Amber / Red Lager,0.041
+Straub Brewery,regional,Saint Marys,Pennsylvania,United States,129,American Light,Light Lager,0.032
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,Todd the Axe Man,American IPA,0.07200000000000001
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,Doomtree,Extra Special / Strong Bitter (ESB),0.057
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,BLAKKR,American Black Ale,0.099
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,Overrated! West Coast Style IPA,American IPA,0.073
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,WET,American IPA,0.075
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,Bitter Brewer,English Bitter,0.04
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,SurlyFest,Rye Beer,0.055
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,Coffee Bender,American Brown Ale,0.051
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,Bender,American Brown Ale,0.051
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,Abrasive Ale,American Double / Imperial IPA,0.097
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,Hell,Keller Bier / Zwickel Bier,0.051
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,CynicAle,Saison / Farmhouse Ale,0.067
+Surly Brewing Company,regional,Brooklyn Ctr,Minnesota,United States,61,Furious,American IPA,0.062
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,Todd the Axe Man,American IPA,0.07200000000000001
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,Doomtree,Extra Special / Strong Bitter (ESB),0.057
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,BLAKKR,American Black Ale,0.099
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,Overrated! West Coast Style IPA,American IPA,0.073
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,WET,American IPA,0.075
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,Bitter Brewer,English Bitter,0.04
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,SurlyFest,Rye Beer,0.055
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,Coffee Bender,American Brown Ale,0.051
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,Bender,American Brown Ale,0.051
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,Abrasive Ale,American Double / Imperial IPA,0.097
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,Hell,Keller Bier / Zwickel Bier,0.051
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,CynicAle,Saison / Farmhouse Ale,0.067
+Surly Brewing Company,regional,Minneapolis,Minnesota,United States,61,Furious,American IPA,0.062
+Swamp Head Brewery,micro,Gainesville,Florida,United States,447,Big Nose,American IPA,0.073
+Swamp Head Brewery,micro,Gainesville,Florida,United States,447,Cotton Mouth,Witbier,0.05
+Swamp Head Brewery,micro,Gainesville,Florida,United States,447,Stump Knocker Pale Ale,American Pale Ale (APA),0.056
+Swamp Head Brewery,micro,Gainesville,Florida,United States,447,Midnight Oil,Oatmeal Stout,0.05
+Swamp Head Brewery,micro,Gainesville,Florida,United States,447,Wild Night,Cream Ale,0.059
+The Bronx Brewery,micro,Bronx,New York,United States,329,Bronx Summer Pale Ale,American Pale Ale (APA),0.052000000000000005
+The Bronx Brewery,micro,Bronx,New York,United States,329,Bronx Black Pale Ale,American Black Ale,0.057
+The Bronx Brewery,micro,Bronx,New York,United States,329,Bronx Pale Ale,American Pale Ale (APA),0.063
+Third Street Brewhouse,regional,Cold Spring,Minnesota,United States,142,Hunny Do Wheat,American Pale Wheat Ale,0.048
+Third Street Brewhouse,regional,Cold Spring,Minnesota,United States,142,Three Way Pale Ale,American Pale Ale (APA),0.052000000000000005
+Third Street Brewhouse,regional,Cold Spring,Minnesota,United States,142,Rise to the Top,Cream Ale,0.041
+Third Street Brewhouse,regional,Cold Spring,Minnesota,United States,142,Lost Trout Brown Ale,American Brown Ale,0.049
+Three Notch'd Brewing Company,micro,Charlottesville,Virginia,United States,273,Hydraulion Red,Irish Red Ale,0.053
+Three Notch'd Brewing Company,micro,Charlottesville,Virginia,United States,273,40 Mile IPA,American IPA,0.06
+Tin Man Brewing Company,micro,Evansville,Indiana,United States,17,Cafe Leche,American Porter,0.058
+Tin Man Brewing Company,micro,Evansville,Indiana,United States,17,Damascene Apricot Sour,Fruit / Vegetable Beer,0.052000000000000005
+Tin Man Brewing Company,micro,Evansville,Indiana,United States,17,Csar,Russian Imperial Stout,0.12
+Tin Man Brewing Company,micro,Evansville,Indiana,United States,17,Klingon Warnog Roggen Dunkel,Roggenbier,0.055
+Tin Man Brewing Company,micro,Evansville,Indiana,United States,17,Overlord Imperial IPA,American Double / Imperial IPA,0.085
+Tin Man Brewing Company,micro,Evansville,Indiana,United States,17,Alloy,American IPA,0.058
+Tin Man Brewing Company,micro,Evansville,Indiana,United States,17,Rivet Irish Red Ale,Irish Red Ale,0.051
+Tin Man Brewing Company,micro,Evansville,Indiana,United States,17,3 Gear Robust Porter,American Porter,0.052000000000000005
+Tin Man Brewing Company,micro,Evansville,Indiana,United States,17,Circuit Bohemian Pilsner,Czech Pilsener,0.045
+Two Henrys Brewing Company,micro,Plant City,Florida,United States,243,The Gilded Age,Munich Helles Lager,0.045
+Uncommon Brewers,micro,Santa Cruz,California,United States,522,Scotty K NA,Low Alcohol Beer,0.001
+Uncommon Brewers,micro,Santa Cruz,California,United States,522,Bacon Brown Ale,American Brown Ale,0.068
+Uncommon Brewers,micro,Santa Cruz,California,United States,522,Golden State Ale,Belgian Pale Ale,0.064
+Uncommon Brewers,micro,Santa Cruz,California,United States,522,Baltic Porter,Baltic Porter,0.078
+Uncommon Brewers,micro,Santa Cruz,California,United States,522,Siamese twin,Dubbel,0.085
+Union Craft Brewing,micro,Baltimore,Maryland,United States,71,Double Duckpin,American Double / Imperial IPA,0.085
+Union Craft Brewing,micro,Baltimore,Maryland,United States,71,Old Pro,Gose,0.042
+Union Craft Brewing,micro,Baltimore,Maryland,United States,71,Duckpin Pale Ale,American Pale Ale (APA),0.055
+Union Craft Brewing,micro,Baltimore,Maryland,United States,71,Balt Altbier,Altbier,0.06
+Utah Brewers Cooperative,regional,Salt Lake City,Utah,United States,302,Squatters Full Suspension Pale Ale,American Pale Ale (APA),0.04
+Utah Brewers Cooperative,regional,Salt Lake City,Utah,United States,302,Squatters Hop Rising Double IPA,American Double / Imperial IPA,0.09
+Utah Brewers Cooperative,regional,Salt Lake City,Utah,United States,302,Devastator Double Bock,Doppelbock,0.08
+Utah Brewers Cooperative,regional,Salt Lake City,Utah,United States,302,Wasatch Ghostrider White IPA,American White IPA,0.06
+Utah Brewers Cooperative,regional,Salt Lake City,Utah,United States,302,Wasatch Ghostrider White IPA (2014),American White IPA,0.06
+Utah Brewers Cooperative,regional,Salt Lake City,Utah,United States,302,Wasatch Apricot Hefeweizen,Fruit / Vegetable Beer,0.04
+Utah Brewers Cooperative,regional,Salt Lake City,Utah,United States,302,Squatters Hop Rising Double IPA (2014),American Double / Imperial IPA,0.09
+Utah Brewers Cooperative,regional,Salt Lake City,Utah,United States,302,Squatters Full Suspension Pale Ale,American Pale Ale (APA),0.04
+White Birch Brewing,micro,Hooksett,New Hampshire,United States,47,Raspberry Berliner Weisse,Berliner Weissbier,0.055
+White Birch Brewing,micro,Hooksett,New Hampshire,United States,47,Hop Session,American IPA,0.05
+White Birch Brewing,micro,Hooksett,New Hampshire,United States,47,Blueberry Berliner Weisse,Berliner Weissbier,0.055
+White Birch Brewing,micro,Hooksett,New Hampshire,United States,47,Berliner Weisse,Berliner Weissbier,0.055
+Wingman Brewers,micro,Tacoma,Washington,United States,509,Ace IPA,American IPA,0.07400000000000001
+Wingman Brewers,micro,Tacoma,Washington,United States,509,P-51 Porter,American Porter,0.08
+Wormtown Brewery,micro,Worcester,Massachusetts,United States,339,Be Hoppy IPA,American IPA,0.065
+Worthy Brewing Company,micro,Bend,Oregon,United States,199,Worthy IPA,American IPA,0.069
+Worthy Brewing Company,micro,Bend,Oregon,United States,199,Easy Day Kolsch,Kölsch,0.045
+Worthy Brewing Company,micro,Bend,Oregon,United States,199,Lights Out Vanilla Cream Extra Stout,American Double / Imperial IPA,0.077
+Worthy Brewing Company,micro,Bend,Oregon,United States,199,Worthy IPA (2013),American IPA,0.069
+Worthy Brewing Company,micro,Bend,Oregon,United States,199,Worthy Pale,American Pale Ale (APA),0.06
